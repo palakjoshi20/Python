@@ -1,0 +1,150 @@
+Date: 14/6/2023
+Time: 9:2
+Phone Number: +919759382030
+Message: Hello
+--------------------
+Date: 14/6/2023
+Time: 9:3
+Phone Number: +919759382030
+Message: Hello
+--------------------
+Date: 14/6/2023
+Time: 9:4
+Phone Number: +919456733415
+Message: Hello
+--------------------
+Date: 14/6/2023
+Time: 9:36
+Phone Number: +918755483939
+Image: C:\Users\palak\PycharmProjects\pywhatkit\JTV_3138.JPG
+Caption: 
+--------------------
+Date: 14/6/2023
+Time: 9:37
+Phone Number: +919045039820
+Image: C:\Users\palak\PycharmProjects\pywhatkit\JTV_3138.JPG
+Caption: 
+--------------------
+Date: 14/6/2023
+Time: 9:48
+Phone Number: Palak_Sena
+Image: JTV_3138.JPG
+Caption: 
+--------------------
+Date: 14/6/2023
+Time: 9:49
+Phone Number: Palak_Sena
+Image: JTV_3138.JPG
+Caption: 
+--------------------
+Date: 14/6/2023
+Time: 9:51
+Group ID: Rahul
+Image: JTV_3138.JPG
+Caption: 
+--------------------
+Date: 14/6/2023
+Time: 9:51
+Phone Number: Palak_Sena
+Image: JTV_3138.JPG
+Caption: 
+--------------------
+Date: 14/6/2023
+Time: 9:53
+Group ID: PalakSena
+Image: JTV_3138.JPG
+Caption: 
+--------------------
+Date: 14/6/2023
+Time: 9:54
+Group ID: PalakSena
+Image: JTV_3138.JPG
+Caption: hi
+--------------------
+Date: 15/6/2023
+Time: 18:10
+Phone Number: +919045039820
+Image: C:/Users/palak/PycharmProjects/pywhatkit/JTV_3138.JPG
+Caption: 
+--------------------
+Date: 15/6/2023
+Time: 18:11
+Phone Number: +919456733415
+Image: C:/Users/palak/PycharmProjects/pywhatkit/JTV_3138.JPG
+Caption: 
+--------------------
+Date: 15/6/2023
+Time: 18:12
+Phone Number: +919456733415
+Image: C:/Users/palak/PycharmProjects/pywhatkit/JTV_3138.JPG
+Caption: 
+--------------------
+Date: 15/6/2023
+Time: 18:25
+Phone Number: +919456733415
+Image: C:/Users/palak/PycharmProjects/pywhatkit/JTV_3138.JPG
+Caption: 
+--------------------
+Date: 20/6/2023
+Time: 12:32
+Phone Number: +919456733415
+Message: Hello
+--------------------
+Date: 20/6/2023
+Time: 12:43
+Phone Number: +919456733415
+Image: C:/Users/palak/PycharmProjects/pywhatkit/JTV_3138.JPG
+Caption: hello
+--------------------
+Date: 20/6/2023
+Time: 12:44
+Phone Number: +919456733415
+Image: C:/Users/palak/PycharmProjects/pywhatkit/JTV_3138.JPG
+Caption: hello
+--------------------
+Date: 20/6/2023
+Time: 13:1
+Phone Number: +919456733415
+Message: Hello
+--------------------
+Date: 21/6/2023
+Time: 9:59
+Phone Number: +919456733415
+Message: Hello
+--------------------
+Date: 21/6/2023
+Time: 10:4
+Phone Number: +919456733415
+Image: C:/Users/palak/PycharmProjects/pywhatkit/JTV_3138.JPG
+Caption: hello
+--------------------
+Date: 21/6/2023
+Time: 18:22
+Phone Number: +919456733415
+Image: C:/Users/palak/PycharmProjects/pywhatkit/kiki.JPG
+Caption: hello
+--------------------
+Date: 21/6/2023
+Time: 18:23
+Phone Number: +919456733415
+Image: C:/Users/palak/PycharmProjects/pywhatkit/sunny.png
+Caption: hello
+--------------------
+Date: 21/6/2023
+Time: 18:26
+Phone Number: +918979401773
+Image: C:/Users/palak/PycharmProjects/pywhatkit/sunny.png
+Caption: opens In Manas College of Science Technology and Management.For following Streams: BSc (I.T) Information TechnologyB.Voc Hotel ManagementB.Voc Graphic Designing and AnimationB.Voc Ecommerce and Digital MarketingB.Voc Healthcare and Nutrition ManagementB.Voc Banking and Financial ManagementB.Voc Logistics Management
+--------------------
+Date: 21/6/2023
+Time: 18:27
+Phone Number: +919456733415
+Image: C:/Users/palak/PycharmProjects/pywhatkit/sunny.png
+Caption: opens In Manas College of Science Technology and Management.For following Streams: BSc (I.T) Information TechnologyB.Voc Hotel ManagementB.Voc Graphic Designing and AnimationB.Voc Ecommerce and Digital MarketingB.Voc Healthcare and Nutrition ManagementB.Voc Banking and Financial ManagementB.Voc Logistics Management
+--------------------
+Date: 22/6/2023
+Time: 9:7
+Phone Number: +919105747570
+Image: C:/Users/palak/PycharmProjects/pywhatkit/sunny.png
+Caption: hello
+--------------------
